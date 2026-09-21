@@ -11,7 +11,7 @@ I enjoy building practical projects, exploring emerging technologies, and contin
 ##  About Me
 
 - Pursuing **B.E. in Computer Science & Engineering**
-- **CGPA: 9.19** (up to 5th semester)
+- **CGPA: 9.22** 
 - Interested in **Artificial Intelligence & Generative AI**
 - Interested in **Software Testing & API Testing**
 - Experienced with **REST APIs, FastAPI, RAG and LangChain**
